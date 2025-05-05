@@ -1,0 +1,7 @@
+PyMuPDF
+python-docx
+easyocr
+pywin32
+numpy
+opencv-python
+pillow
