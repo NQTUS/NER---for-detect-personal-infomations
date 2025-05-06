@@ -1,0 +1,26 @@
+[
+    {
+        "text": "Visa",
+        "label": "ORG",
+        "start": 42,
+        "end": 46
+    },
+    {
+        "text": "MTL",
+        "label": "ORG",
+        "start": 682,
+        "end": 685
+    },
+    {
+        "text": "MTL",
+        "label": "ORG",
+        "start": 682,
+        "end": 685
+    },
+    {
+        "text": "MTL",
+        "label": "ORG",
+        "start": 682,
+        "end": 685
+    }
+]

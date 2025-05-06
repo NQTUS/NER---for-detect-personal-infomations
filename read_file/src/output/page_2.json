@@ -1,0 +1,164 @@
+[
+    {
+        "text": "MTL",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+    },
+    {
+        "text": "",
+        "label": "PERSON",
+        "start": 91,
+        "end": 92
+    },
+    {
+        "text": "MTL",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+    },
+    {
+        "text": "MTL",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+    },
+    {
+        "text": "",
+        "label": "PERSON",
+        "start": 91,
+        "end": 92
+    },
+    {
+        "text": "",
+        "label": "PERSON",
+        "start": 91,
+        "end": 92
+    },
+    {
+        "text": "",
+        "label": "PERSON",
+        "start": 91,
+        "end": 92
+    },
+    {
+        "text": "",
+        "label": "PERSON",
+        "start": 91,
+        "end": 92
+    },
+    {
+        "text": "Visa",
+        "label": "ORG",
+        "start": 962,
+        "end": 966
+    },
+    {
+        "text": "Paypal",
+        "label": "PERSON",
+        "start": 997,
+        "end": 1003
+    },
+    {
+        "text": "Visa",
+        "label": "PERSON",
+        "start": 962,
+        "end": 966
+    },
+    {
+        "text": "MTL",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+    },
+    {
+        "text": "MTL",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+    },
+    {
+        "text": "MTL",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+    },
+    {
+        "text": "Visa",
+        "label": "ORG",
+        "start": 962,
+        "end": 966
+    },
+    {
+        "text": "Smart Banking",
+        "label": "ORG",
+        "start": 1180,
+        "end": 1193
+    },
+    {
+        "text": "MTL",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+    },
+    {
+        "text": "Paypal",
+        "label": "PERSON",
+        "start": 997,
+        "end": 1003
+    },
+    {
+        "text": "MTL",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+    },
+    {
+        "text": "Paypal",
+        "label": "PERSON",
+        "start": 997,
+        "end": 1003
+    },
+    {
+        "text": "Paypal",
+        "label": "PERSON",
+        "start": 997,
+        "end": 1003
+    },
+    {
+        "text": "MTL",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+    },
+    {
+        "text": "Paypal",
+        "label": "PERSON",
+        "start": 997,
+        "end": 1003
+    },
+    {
+        "text": "MTL",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+    },
+    {
+        "text": "MTL",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+    },
+    {
+        "text": "MTL",
+        "label": "ORG",
+        "start": 0,
+        "end": 3
+    },
+    {
+        "text": "Banking/ Paypal",
+        "label": "PERSON",
+        "start": 2066,
+        "end": 2081
+    }
+]

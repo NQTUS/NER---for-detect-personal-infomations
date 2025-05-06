@@ -15,13 +15,13 @@ def process_file(file_path):
     file = None
     
     if ext == '.pdf':
-        file = process_pdf(file_path)
+        file, ocr = process_pdf(file_path)
     elif ext == '.docx':
-        file = process_docx(file_path)
+        file, ocr = process_docx(file_path)
     elif ext == '.doc':
         docx_path = convert_doc_to_pdf(file_path)
         if docx_path:
-            file = process_pdf(docx_path)
+            file, ocr = process_pdf(docx_path)
             try:
                 os.remove(docx_path)
             except Exception as e:
@@ -29,7 +29,7 @@ def process_file(file_path):
     else:
         print(f"Error: Unsupported file format '{ext}'")
 
-    return file
+    return file, ocr
 
 def process_pdf(pdf_path):
     try:

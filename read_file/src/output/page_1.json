@@ -1,0 +1,86 @@
+[
+    {
+        "text": "Memorable Thrills & Laughs",
+        "label": "ORG",
+        "start": 46,
+        "end": 72
+    },
+    {
+        "text": "MTL",
+        "label": "ORG",
+        "start": 74,
+        "end": 77
+    },
+    {
+        "text": "Movies Management System",
+        "label": "ORG",
+        "start": 165,
+        "end": 189
+    },
+    {
+        "text": "MMS",
+        "label": "ORG",
+        "start": 191,
+        "end": 194
+    },
+    {
+        "text": "MMS",
+        "label": "ORG",
+        "start": 191,
+        "end": 194
+    },
+    {
+        "text": "MTL",
+        "label": "ORG",
+        "start": 74,
+        "end": 77
+    },
+    {
+        "text": "",
+        "label": "PERSON",
+        "start": 335,
+        "end": 336
+    },
+    {
+        "text": "MTL",
+        "label": "ORG",
+        "start": 74,
+        "end": 77
+    },
+    {
+        "text": "VIP",
+        "label": "ORG",
+        "start": 780,
+        "end": 783
+    },
+    {
+        "text": "pepsi",
+        "label": "ORG",
+        "start": 1813,
+        "end": 1818
+    },
+    {
+        "text": "",
+        "label": "PERSON",
+        "start": 335,
+        "end": 336
+    },
+    {
+        "text": "",
+        "label": "PERSON",
+        "start": 335,
+        "end": 336
+    },
+    {
+        "text": "",
+        "label": "PERSON",
+        "start": 335,
+        "end": 336
+    },
+    {
+        "text": "MTL",
+        "label": "ORG",
+        "start": 74,
+        "end": 77
+    }
+]
