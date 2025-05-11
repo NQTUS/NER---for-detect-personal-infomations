@@ -1,0 +1,7 @@
+spacy==3.7.5
+langdetect
+presidio-analyzer
+presidio-anonymizer
+rapidfuzz
+deep-translator
+unidecode
